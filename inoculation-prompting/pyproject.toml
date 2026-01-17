@@ -1,0 +1,10 @@
+[project]
+name = "inoculation-on-policy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "backoff>=2.2.1",
+    "simple-parsing>=0.1.7",
+]
